@@ -16,6 +16,9 @@
 }
 .footer-copyright-text {
   color: #EAF6F6;
+  width: 50%;
+  margin: 30px auto;
+  line-height: 2;
 }
 
 
