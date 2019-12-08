@@ -63,6 +63,8 @@ body {
 #profile-text{
   width: 50%;
   margin: 0 auto;
+  font-size: 1.5rem;
+  line-height: 2;
 }
 hr {
   border-color: #EAF6F6;
@@ -88,6 +90,14 @@ h2 {
 h3 {
   color: #11999E;
   margin: 0;
+  font-size: 1rem;
+}
+p{
+  font-size: 1rem;
+  line-height: 2;
+}
+#contact-p{
+  line-height: 1;
 }
 a {
   color: #11999E;
@@ -111,7 +121,7 @@ a {
 .bottom-cloud {
   position: absolute;
   left: 20%;
-  top: 250px;
+  top: 325px;
 }
 .skill-row {
   width: 50%;
