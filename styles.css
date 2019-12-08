@@ -19,6 +19,7 @@
   width: 50%;
   margin: 30px auto;
   line-height: 2;
+  font-size: 1.2rem;
 }
 
 
@@ -112,7 +113,7 @@ a {
   color: #66BFBF;
   font-weight: normal;
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .top-cloud {
