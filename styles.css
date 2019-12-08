@@ -60,7 +60,10 @@ body {
   height: 15%;
   width: 15%;
 }
-
+#profile-text{
+  width: 50%;
+  margin: 0 auto;
+}
 hr {
   border-color: #EAF6F6;
   border-style: dotted;
@@ -96,6 +99,7 @@ a {
   color: #66BFBF;
   font-weight: normal;
   margin: 0;
+  font-size: 2rem;
 }
 
 .top-cloud {
